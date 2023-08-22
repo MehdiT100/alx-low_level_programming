@@ -30,5 +30,5 @@ else if (digit > 0)
 break;
 }
 } while (*s++);
-return (digit * num_sign);
+return (digit *num_sign);
 }
